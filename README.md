@@ -1,13 +1,14 @@
-#Zamalek SC - Tala'ea El-Gaish notebook
+# Zamalek SC - Tala'ea El-Gaish notebook
 
 in this notebook I scraped data from sofascore using their api
 
-##the results 
+## the results 
 
 ![output](https://github.com/user-attachments/assets/ca7ca57a-19c5-48bc-9737-8f67ae2816bf)
 
 
-![output](https://github.com/user-attachments/assets/010c6d63-7d39-4de1-b527-fe9912a08c35)
+![output22](https://github.com/user-attachments/assets/073f5b83-147e-413f-b0ad-9937064ad172)
+
 
 
 ![output3](https://github.com/user-attachments/assets/64d8c422-5119-421c-9c15-1cee7218439d)
