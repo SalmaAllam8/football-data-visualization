@@ -50,7 +50,8 @@ I scraped data from understat.com, fbref, statsbomb and transfermarket
 
 ![image](https://github.com/user-attachments/assets/63036551-3622-4b8d-923f-d9a351e9d24d) 
 
-![download](https://github.com/user-attachments/assets/c9f13dbe-c8ab-4e38-82f3-7394c74899f6)
+![download](https://github.com/user-attachments/assets/1b07082d-1e38-48ee-b8f3-b0d2f6506ecc)
+
 
 For an interactive plot 
 ![newplot](https://github.com/user-attachments/assets/13e43be2-558b-4457-8e35-53f54c3a75e9)
